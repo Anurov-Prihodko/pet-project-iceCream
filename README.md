@@ -1,4 +1,4 @@
-# pet-project-iceCream
+# pet-project-icecream
 
 ## Developing
 
