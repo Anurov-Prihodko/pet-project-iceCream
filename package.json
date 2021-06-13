@@ -3,22 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Anurov-Prihodko.github.io/icecream-project",
+  "homepage": "https://anurov-prihodko.github.io/pet-project-iceCream/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /icecream-project/",
+    "predeploy": "npm run build -- --public-url /pet-project-iceCream/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/icecream-project.git"
+    "url": "git+https://github.com/Anurov-Prihodko/pet-project-iceCream.git"
   },
   "keywords": [],
   "author": "Olekciiy Anurov-Prihodko <amyr.prihodko2akk@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/icecream-project/issues"
+    "url": "https://github.com/Anurov-Prihodko/pet-project-iceCream/issues"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
